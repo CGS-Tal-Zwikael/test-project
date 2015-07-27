@@ -43,5 +43,11 @@ class ViewController: UIViewController {
 		
 	}
 	
+	func moreAwesomeFeatureQ() {
+		
+		println("I lied")
+		
+	}
+	
 }
 
