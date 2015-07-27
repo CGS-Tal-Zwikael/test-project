@@ -30,5 +30,17 @@ class ViewController: UIViewController {
 		
 	}
 	
+	func awesomeFeatureY() {
+		
+		println("This is feature Y")
+		
+		for i in 0...10 {
+			
+			println(i)
+			
+		}
+		
+	}
+	
 }
 
