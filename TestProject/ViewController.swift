@@ -45,6 +45,7 @@ class ViewController: UIViewController {
 	
 	func moreAwesomeFeatureQ() {
 		
+		// This is another line that prints a message to the console
 		println("I lied")
 		
 	}
