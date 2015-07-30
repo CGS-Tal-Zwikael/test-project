@@ -14,6 +14,7 @@ class SecondViewController: UIViewController {
 		
 		super.viewDidLoad()
 		
+		// Hello, again! :)
 		println("Hello from the second view controller")
 		
 	}
