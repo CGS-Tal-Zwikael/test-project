@@ -31,7 +31,8 @@ class ViewController: UIViewController {
 		
 	}
 	
-	func awesomeFeatureQ() {
+
+	func awesomeFeatureQZ() {
 		
 		// This also prints a message to the console
 		println("This is feature Y")
